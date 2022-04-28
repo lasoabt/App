@@ -1,0 +1,5 @@
+C:\Users\Szabolcs.Lazar\Desktop\App\App\bin\Debug\App.dll
+C:\Users\Szabolcs.Lazar\Desktop\App\App\bin\Debug\App.pdb
+C:\Users\Szabolcs.Lazar\Desktop\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\Szabolcs.Lazar\Desktop\App\App\obj\Debug\App.dll
+C:\Users\Szabolcs.Lazar\Desktop\App\App\obj\Debug\App.pdb
